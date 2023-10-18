@@ -1,4 +1,4 @@
-*Responsive React Dashboard*
+**Responsive React Dashboard**
 
 A responsive React dashboard built with Material UI, Recharts, React Router DOM, and React Icons. The dashboard features a sidebar for navigation, charts for data visualization, and other widgets for displaying key information. The dashboard is fully responsive and adapts to different screen sizes and devices.
 
@@ -15,8 +15,8 @@ A responsive React dashboard built with Material UI, Recharts, React Router DOM,
 To use the dashboard, simply clone the repository and install the dependencies:
 
 ```
-git clone https://github.com/your-username/responsive-react-dashboard
-cd responsive-react-dashboard
+git clone https://github.com/myself-ikram/Dashboard
+cd Dashboard
 npm install
 ```
 

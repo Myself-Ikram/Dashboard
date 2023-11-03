@@ -19,8 +19,8 @@ A responsive React dashboard built with Material UI, Recharts, React Router DOM,
 </div>
 *Tablet:*
 <div>
-  <img width=200 height=300 src="https://github.com/Myself-Ikram/Dashboard/assets/97652328/ca8e47d9-6fe2-42fe-a199-6d5d2502676e" />
-  <img width=200 height=300 src="https://github.com/Myself-Ikram/Dashboard/assets/97652328/d4afb0d7-0eaa-423d-98db-ab2159ffedb6" />
+  <img width=250 height=300 src="https://github.com/Myself-Ikram/Dashboard/assets/97652328/ca8e47d9-6fe2-42fe-a199-6d5d2502676e" />
+  <img width=250 height=300 src="https://github.com/Myself-Ikram/Dashboard/assets/97652328/d4afb0d7-0eaa-423d-98db-ab2159ffedb6" />
 </div>
 *Laptop:*
 <div>
